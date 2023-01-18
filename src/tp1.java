@@ -6,7 +6,7 @@ public class tp1
         Scanner sc = new Scanner(System.in);
         System.out.println("Saisissez votre nom");
         String nom = sc.next();
-        System.out.println("Saisissez votre nom");
+        System.out.println("Saisissez votre prénom");
         String prenom = sc.next();
         System.out.println("Bonjour "+nom+" "+prenom+" !");
     }
